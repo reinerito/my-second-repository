@@ -1,11 +1,11 @@
 # My first day on Github
-##blabla
-###blubblub
+## blabla
+### blubblub
 **some key**
 - git
 - GITHUB
 - version control
-- repository'commit'
+- repository 'commit'
 hash
 
 some more blubb
